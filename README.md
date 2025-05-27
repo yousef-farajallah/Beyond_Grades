@@ -1,4 +1,4 @@
-# Beyond Grades: Uncovering the Hidden Factors Behind Students' Grades Using Machine Learning
+# Beyond Grades: Uncovering the Hidden Factors Behind Students Grades Using Machine Learning
 
 > **Graduation Project – Computer Information Systems (CIS)**  
 > **Al-Quds Open University**  
@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-This project explores the key factors influencing student academic performance using machine learning techniques. Leveraging the [Student Performance dataset](https://archive.ics.uci.edu/dataset/320/student+performance) from the UCI Machine Learning Repository, the goal is to build predictive models and uncover hidden patterns in students’ academic behavior, background, and support systems.
+This project explores the key factors influencing student academic performance using machine learning techniques. Leveraging the [Student Performance dataset](https://archive.ics.uci.edu/dataset/320/student+performance) from the UCI Machine Learning Repository, the goal is to build predictive models and uncover hidden patterns in students’ academic behavior, background, and help bulding support systems.
 
 ---
 
