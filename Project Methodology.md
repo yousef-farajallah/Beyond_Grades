@@ -34,5 +34,5 @@ This project follows a structured machine learning pipeline to analyze the facto
    - Selected the most effective model for predicting student grades.
 
 9. **Future Work**
-   - Recommendations for dataset expansion, deployment, and integration into educational tools.
+   - Recommendations for dataset expansion, model deployment and integration into educational tools.
 
